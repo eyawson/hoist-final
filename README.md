@@ -34,6 +34,6 @@ Each engineer that joins this team needs its own development server for you know
 
 ### Old Data 💾
 
-#### TODO
+#### DONE
 
 There has been a mysql database created in the new AWS account in RDS. It houses data that will be used in the development of these new application. It was provisioned manually so it's management needs to be brought under the umbrella of Terraform....do ya thing boss.
